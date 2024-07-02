@@ -1,8 +1,5 @@
-## 
-<p align="center" style="color: #C8CFA0; font-weight: bold; font-size: big;">Hi! <img src="https://github.com/Krolinaluz/Krolinaluz/assets/106620692/bb319228-2e55-4b2b-aabd-71b9333bf8a5"/> </p>
-<p align="center">✨ Welcome to my GitHub ✨ </p>
-
-
+## Hi! I'm Carolina <img src="./assets/img/victory.gif" alt="hi_hand" width="30">
+![Banner](./banner.svg)
 
 
 
